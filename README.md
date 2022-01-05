@@ -18,4 +18,4 @@ A flutter app using api and sqlite.
 
 ## screenshots
 
-![todo app screenshots](https://user-images.githubusercontent.com/95865026/148143683-73be82a3-4ffd-4879-875f-2a19eeb6d2af.gif)
+![news app screenshots](https://user-images.githubusercontent.com/95865026/148144673-eac66a44-8ed6-4a23-adb0-873e29955922.gif)
