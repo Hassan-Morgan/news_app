@@ -1,16 +1,21 @@
-# hassan_beh
+# news app
 
-A new Flutter project.
+A flutter app using api and sqlite.
 
-## Getting Started
+## app featueres 
+ navigat between different news categories <br/>
+ search window to search for news <br>
+ favorite window as you can save or unsave your important news <br/>
+ button to change app theme
+ 
+ ## app packages
+ flutter_bloc - bloc for state management <br/>
+ dio for api management <br/>
+ sqflite for local database management <br/>
+ shared_preferences <br/>
+  webview_flutter for view the news source website
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![todo app screenshots](https://user-images.githubusercontent.com/95865026/148143683-73be82a3-4ffd-4879-875f-2a19eeb6d2af.gif)
